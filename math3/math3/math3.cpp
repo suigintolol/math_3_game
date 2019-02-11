@@ -1,4 +1,4 @@
-﻿#include "pch.h"
+﻿//#include "pch.h"
 #include <time.h>
 #include <iostream>
 #include <string>
